@@ -1,7 +1,7 @@
 # Random-Password_Generator
 A simple Random Password Generator built using HTML, CSS, and JavaScript. Generates secure 14-character passwords instantly with one click.
 
-https://iabhinavsharma.github.io/Random-Password_Generator/
+https://random-password-generator-gamma-azure.vercel.app/
 
 <img width="744" height="393" alt="image" src="https://github.com/user-attachments/assets/1b153743-7ff0-41e4-8b01-e14b8827da3f" />
 
